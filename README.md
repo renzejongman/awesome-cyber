@@ -267,6 +267,11 @@ Repository | Description
 
 ## Blue Team
 
+### Cyber Threat Intelligence
+| Repository                                                                    | Description                                                                                                             |
+| ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [CTI-skills for Claude Code](https://liberty91.com/cti-skills)                        | A free and actively maintained collection of dozens of Skills to use in Claude Code and other similar frameworks for Cyber Threat Intelligence, developed by the team behind Liberty91. Covers analytical tradecraft, integration with often-used tools and platforms, knowledge skills on particular Intelligence Requirements that can update themselves, and production skills that can turn data into reports, IOC-feeds, STIX-bundles, detection rules, et cetera. 
+
 ### Forensics
 
 | Repository                                                                    | Description                                                                                                             |
